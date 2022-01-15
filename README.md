@@ -5,8 +5,7 @@ race their four tokens across the board from start
 to finish. Whoever gets all four tokens "home" first
 wins the game. 
 
-[Ludo Board]
-(https://raw.githubusercontent.com/ahmadw2/Ludo/main/LudoBoard.png)
+![Ludo Board](https://raw.githubusercontent.com/ahmadw2/Ludo/main/LudoBoard.png)
 
 ## Rules
 
@@ -48,7 +47,6 @@ exact amount of spaces they need to enter their home.
 While running the program, the user should open up the annotated image of the 
 Ludo board so they can see where their tokens are located. 
 
-[Annotated Ludo Board]
-(https://raw.githubusercontent.com/ahmadw2/Ludo/main/AnnotatedBoard.jpg)
+![Annotated Ludo Board](https://raw.githubusercontent.com/ahmadw2/Ludo/main/AnnotatedBoard.jpg)
 
 
