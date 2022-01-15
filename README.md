@@ -6,7 +6,7 @@ to finish. Whoever gets all four tokens "home" first
 wins the game. 
 
 [Ludo Board]
-(https://replit.com/@ahmadw2/Ludo#LudoBoard.png)
+(https://raw.githubusercontent.com/ahmadw2/Ludo/main/LudoBoard.png)
 
 ## Rules
 
@@ -49,6 +49,6 @@ While running the program, the user should open up the annotated image of the
 Ludo board so they can see where their tokens are located. 
 
 [Annotated Ludo Board]
-(https://replit.com/@ahmadw2/Ludo#AnnotatedBoard.jpg)
+(https://raw.githubusercontent.com/ahmadw2/Ludo/main/AnnotatedBoard.jpg)
 
 
